@@ -1,0 +1,81 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "Mohasin": {
+        "password": "onik@2009",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "82c10693",
+                "link": "82c10693",
+                "login_url": "/82c10693/login",
+                "dashboard_url": "/82c10693/home",
+                "full_link": "http://localhost:5000/82c10693/home",
+                "type": "python",
+                "ram": "4GB",
+                "disk": "10GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-29 22:07:03.359196",
+                "expiry": "2026-07-30 22:07:03.348426",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 100,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "telegram_bot_gc6q": {
+        "password": "onik@2009",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "402e0376",
+                "link": "402e0376",
+                "login_url": "/402e0376/login",
+                "dashboard_url": "/402e0376/home",
+                "full_link": "http://192.168.1.100:5000/402e0376/home",
+                "type": "python",
+                "ram": "128MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-30 06:23:46.497943",
+                "expiry": "2026-07-31 06:23:46.490950",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "Ariyan": {
+        "password": "onik@2009",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "a64b9e39",
+                "link": "a64b9e39",
+                "login_url": "/a64b9e39/login",
+                "dashboard_url": "/a64b9e39/home",
+                "full_link": "http://192.168.1.100:5000/a64b9e39/home",
+                "type": "python",
+                "ram": "512MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-30 06:24:40.898897",
+                "expiry": "2026-08-29 06:24:40.887853",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 100,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
